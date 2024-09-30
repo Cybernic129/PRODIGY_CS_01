@@ -1,4 +1,4 @@
-Caesar Cipher
+Caesar Cipher Algorithm
 
 The Caesar Cipher is one of the earliest encryption methods, named after Julius Caesar, who used it for secure military communication. It involves shifting each letter in a message by a fixed number of positions in the alphabet. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', etc.
 
